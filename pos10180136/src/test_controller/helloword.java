@@ -3,6 +3,7 @@ package test_controller;
 public class helloword {
 
 	public static void main(String[] args) {
+		System.out.println("up");
 	 Integer x=1;
 	 System.out.println("BEGIN");
 	 while(true){
